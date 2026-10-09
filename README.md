@@ -1,6 +1,6 @@
-# Free Cal Maths — Legal & Support
+# FreeCal Maths & Scientific — Legal & Support
 
-Public legal and support pages for Free Cal Maths (formerly Caffle Math), a free offline basic and scientific calculator. The repository was renamed from CaffleMath-Legal to FreeCalMaths-Legal.
+Public legal and support pages for FreeCal Maths & Scientific (formerly Caffle Math), a free offline basic and scientific calculator. The repository was renamed from CaffleMath-Legal to FreeCalMaths-Legal.
 
 - [Privacy Policy](privacy.html)
 - [Terms & Conditions](terms.html)
@@ -33,7 +33,7 @@ The calculator also includes its legal and support content offline.
 
 ## Update the pages
 
-In the full Free Cal Maths app project, edit `src/content/legal.json` or `src/content/legal.css`, then run:
+In the full FreeCal Maths & Scientific app project, edit `src/content/legal.json` or `src/content/legal.css`, then run:
 
 ```bash
 npm run legal:build
