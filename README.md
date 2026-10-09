@@ -1,6 +1,6 @@
 # FreeCal Maths & Scientific — Legal & Support
 
-Public legal and support pages for FreeCal Maths & Scientific (formerly Caffle Math), a free offline basic and scientific calculator. The repository was renamed from CaffleMath-Legal to FreeCalMaths-Legal.
+Public legal and support pages for FreeCal Maths & Scientific (formerly Caffle Math), a free offline basic and scientific calculator. The repository was renamed from CaffleMath-Legal to FreeCalMaths-Legal, then to FreeCalMaths-Scientific-Legal.
 
 - [Privacy Policy](privacy.html)
 - [Terms & Conditions](terms.html)
@@ -22,10 +22,10 @@ The files are committed in this repository. To publish the website:
 
 Expected URLs after deployment:
 
-- https://ekkacaffle-dot.github.io/FreeCalMaths-Legal/
-- https://ekkacaffle-dot.github.io/FreeCalMaths-Legal/privacy.html
-- https://ekkacaffle-dot.github.io/FreeCalMaths-Legal/terms.html
-- https://ekkacaffle-dot.github.io/FreeCalMaths-Legal/support.html
+- https://ekkacaffle-dot.github.io/FreeCalMaths-Scientific-Legal/
+- https://ekkacaffle-dot.github.io/FreeCalMaths-Scientific-Legal/privacy.html
+- https://ekkacaffle-dot.github.io/FreeCalMaths-Scientific-Legal/terms.html
+- https://ekkacaffle-dot.github.io/FreeCalMaths-Scientific-Legal/support.html
 
 Committing the files does not automatically enable GitHub Pages. Keep Apple's Standard EULA in App Store Connect; these app-specific terms supplement it.
 
