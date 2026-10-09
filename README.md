@@ -1,12 +1,12 @@
-# Caffle Math — Legal & Support
+# Free Cal Maths — Legal & Support
 
-Public legal and support pages for Caffle Math, a free offline basic and scientific calculator.
+Public legal and support pages for Free Cal Maths (formerly Caffle Math), a free offline basic and scientific calculator. The repository name and URLs are unchanged.
 
 - [Privacy Policy](privacy.html)
 - [Terms & Conditions](terms.html)
 - [Support](support.html)
 
-Support: **ekka.caffle@gmail.com**. Effective date: **October 8, 2026**.
+Support: **ekka.caffle@gmail.com**. Effective date: **October 9, 2026**.
 
 These static pages require no npm dependencies, external fonts, JavaScript, analytics, or contact form. They support mobile screens and system light/dark appearance.
 
@@ -33,7 +33,7 @@ The calculator also includes its legal and support content offline.
 
 ## Update the pages
 
-In the full Caffle Math app project, edit `src/content/legal.json` or `src/content/legal.css`, then run:
+In the full Free Cal Maths app project, edit `src/content/legal.json` or `src/content/legal.css`, then run:
 
 ```bash
 npm run legal:build
